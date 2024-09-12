@@ -1,14 +1,28 @@
-# improve-this-game
-UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
-Departamento de Estatística e Informática
-Bacharelado em Sistemas de Informação
-Princípios de Programação
-Prof. Cleyton V. C. de Magalhães
+# Exercício: Improve This Game
 
-Exercício
+### Universidade Federal Rural de Pernambuco  
+**Departamento de Estatística e Informática**  
+**Bacharelado em Sistemas de Informação**  
+**Disciplina: Princípios de Programação**
 
-Melhorar este código usando o conceito de Herança para:
+---
 
-Melhorar os códigos existentes. Corrigindo funções incompletas ou com erro.
-Implementar funções novas
-Criar uma nova Classe HEROI, colocando atributos e métodos específicos.
+## Objetivo do Exercício
+
+Melhorar o código existente utilizando o conceito de **Herança** em Python. As tarefas a serem realizadas incluem:
+
+1. **Aprimorar os códigos existentes**: 
+   - Corrigir funções incompletas ou com erros.
+
+2. **Implementar novas funcionalidades**:
+   - Adicionar funções adicionais para expandir as capacidades do sistema.
+
+3. **Criar uma nova classe `HEROI`**:
+   - Definir atributos e métodos específicos para a nova classe.
+   
+---
+
+**Instruções**:  
+Implemente as melhorias solicitadas e documente as mudanças feitas para facilitar a revisão.
+
+
