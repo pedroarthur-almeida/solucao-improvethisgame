@@ -51,11 +51,11 @@ O projeto contém os seguintes arquivos:
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/profcvanut/improve-this-game.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd nome-do-repositorio
+   cd improve-this-game
    ```
 3. Execute o jogo:
    ```sh
