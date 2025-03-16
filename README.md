@@ -1,4 +1,4 @@
-# Exercício: Improve This Game
+# DESAFIO 🕹️ Improve This Game 🕹️
 
 ### Universidade Federal Rural de Pernambuco  
 **Departamento de Estatística e Informática**  
@@ -36,6 +36,7 @@ Você deve melhorar o código existente, que atualmente possui as classes `Perso
 - Usar **listas** para armazenar diferentes heróis e vilões, e **dicionários** para guardar seus atributos.
 - Melhorar a exibição de mensagens e interações para tornar a jogabilidade mais interessante.
 - Criar um sistema de registro de ações para acompanhar o histórico dos eventos do jogo.
+- **Use sua imaginação para elaborar diálogos, métodos que sirvam para interagir e use o código base já disponível como exemplo para expandi-lo. Não precisa manter os métodos que já existem, você pode alterá-los à vontade**.
 
 ## **Arquivos do Projeto**
 
